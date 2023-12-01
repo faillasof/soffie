@@ -3,7 +3,8 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
   int v,s,t;
-  std::cout << "menghitung jarak tempuh" << '\n';
+  cout<<"PROGRAM C++ MENGHITUNG WAKTU TEMPUH"<<endl;
+	cout<<"-----------------------------------"<<endl;
   std::cout << "masukan kecepatan :";
   std::cin >> v;
   std::cout << "masukan waktu tempuh :";
